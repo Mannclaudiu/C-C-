@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\practica_c++\dragon\homework_02_dragons\dragons\header\dragons.h(29): warning C4251: 'Creature::name' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Creature'
+d:\practica_c++\dragon\homework_02_dragons\dragonsapp\dragonsapp\main.cpp(16): error C2661: 'Dragon::Dragon' : no overloaded function takes 5 arguments
