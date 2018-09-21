@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\mannc\documents\git_c++\dragon\dragons\header\dragons.h(29): warning C4251: 'Creature::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Creature'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\mannc\documents\git_c++\dragon\dragonsapp\dragonsapp\main.cpp(48): warning C4129: ' ': unrecognized character escape sequence
+c:\users\mannc\documents\git_c++\dragon\dragonsapp\dragonsapp\main.cpp(62): warning C4129: '+': unrecognized character escape sequence
+c:\users\mannc\documents\git_c++\dragon\dragonsapp\dragonsapp\main.cpp(62): warning C4129: '[': unrecognized character escape sequence
+c:\users\mannc\documents\git_c++\dragon\dragonsapp\dragonsapp\main.cpp(65): warning C4129: ' ': unrecognized character escape sequence
+  DragonsApp.vcxproj -> C:\Users\mannc\Documents\Git_C++\Dragon\\Build\Win32\Debug\DragonsApp.exe

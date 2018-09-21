@@ -1,0 +1,5 @@
+﻿  Dragons.cpp
+c:\users\mannc\documents\git_c++\dragon\dragons\header\dragons.h(29): warning C4251: 'Creature::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Creature'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     Creating library C:\Users\mannc\Documents\Git_C++\Dragon\\Build\Win32\Debug\Dragons.lib and object C:\Users\mannc\Documents\Git_C++\Dragon\\Build\Win32\Debug\Dragons.exp
+  Dragons.vcxproj -> C:\Users\mannc\Documents\Git_C++\Dragon\\Build\Win32\Debug\Dragons.dll

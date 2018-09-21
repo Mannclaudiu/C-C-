@@ -1,0 +1,5 @@
+﻿  Logger.cpp
+c:\users\mannc\downloads\data\facultate\practica_c++\logger\logger\logger\logger.h(85): warning C4251: 'MyLogger::Logger::file': class 'std::basic_fstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'MyLogger::Logger'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\iosfwd(627): note: see declaration of 'std::basic_fstream<char,std::char_traits<char>>'
+     Creating library C:\Users\mannc\Downloads\Data\Facultate\Practica_C++\Logger\Logger\\bin\Debug\Logger.lib and object C:\Users\mannc\Downloads\Data\Facultate\Practica_C++\Logger\Logger\\bin\Debug\Logger.exp
+  Logger.vcxproj -> C:\Users\mannc\Downloads\Data\Facultate\Practica_C++\Logger\Logger\\bin\Debug\Logger.dll
