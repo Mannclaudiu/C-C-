@@ -169,3 +169,32 @@
 - 9/21/2018 18:13:1:409 13376 DEBUG: 64
 - 9/21/2018 18:13:1:411 13376 INFO: Pass-by-reference using reference has been done 
 
+- 9/21/2018 19:33:0:914 8420 ERROR: There is already an instance of this class!
+
+- 9/21/2018 19:33:0:927 8420 INFO: Pass by value 
+- 9/21/2018 19:33:0:928 8420 DEBUG: Value: 00D8FB30
+- 9/21/2018 19:33:0:939 8420 DEBUG: 8
+- 9/21/2018 19:33:0:940 8420 DEBUG: In square() value: 00D8F910
+- 9/21/2018 19:33:0:942 8420 WARNING: The function will exit returning the value 64
+- 9/21/2018 19:33:0:943 8420 DEBUG: 64
+- 9/21/2018 19:33:0:945 8420 DEBUG: In square() value: 00D8F910
+- 9/21/2018 19:33:0:948 8420 WARNING: The function will exit returning the value 64
+- 9/21/2018 19:33:0:950 8420 DEBUG: 64
+- 9/21/2018 19:33:0:951 8420 INFO: Pass by value has been done 
+
+- 9/21/2018 19:33:0:952 8420 INFO: Pass-by-reference using pointer 
+- 9/21/2018 19:33:0:953 8420 DEBUG: Pointer: 00D8FB24
+- 9/21/2018 19:33:0:955 8420 DEBUG: 8
+- 9/21/2018 19:33:0:958 8420 DEBUG: In square() pointer: 00D8FB24
+- 9/21/2018 19:33:0:960 8420 WARNING: The function will exit returning the value 64
+- 9/21/2018 19:33:0:961 8420 DEBUG: 64
+- 9/21/2018 19:33:0:963 8420 INFO: Pass-by-reference using pointer has been done
+
+- 9/21/2018 19:33:0:964 8420 INFO: Pass-by-reference using reference 
+- 9/21/2018 19:33:0:965 8420 DEBUG: Reference: 00D8FB18
+- 9/21/2018 19:33:0:971 8420 DEBUG: 8
+- 9/21/2018 19:33:0:972 8420 DEBUG: In square() reference: 00D8FB18
+- 9/21/2018 19:33:0:974 8420 WARNING: The function will exit returning the value 64
+- 9/21/2018 19:33:0:976 8420 DEBUG: 64
+- 9/21/2018 19:33:0:977 8420 INFO: Pass-by-reference using reference has been done 
+
