@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\mannc\documents\git_c++\logger\logger\logger.h(85): warning C4251: 'MyLogger::Logger::file': class 'std::basic_fstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'MyLogger::Logger'
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\iosfwd(627): note: see declaration of 'std::basic_fstream<char,std::char_traits<char>>'
-  Test.vcxproj -> C:\Users\mannc\Documents\Git_C++\Logger\\bin\Debug\Test.exe
